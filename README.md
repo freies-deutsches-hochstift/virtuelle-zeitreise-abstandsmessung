@@ -1,6 +1,6 @@
 # Modul "Abstandsmessung"
 
-Im Rahmen des museum4punkt0-Teilprojektes "Eine virtuelle Zeitreise in E.T.A. Hoffmanns Frankfurt" entsteht hier eine den zu definierenden Schnittstellen entsprechende Bibliothek zur b$rowserbasierten Abstandsmessung.
+Im Rahmen des museum4punkt0-Teilprojektes "Eine virtuelle Zeitreise in E.T.A. Hoffmanns Frankfurt" entsteht hier eine den zu definierenden Schnittstellen entsprechende Bibliothek zur browserbasierten Abstandsmessung.
 
 ## Förderung
 
